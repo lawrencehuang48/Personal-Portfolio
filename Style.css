@@ -29,6 +29,5 @@ body {
 }
 
 .active {
-    background-color:  #111;
     border-bottom: white solid 2px;
 }
